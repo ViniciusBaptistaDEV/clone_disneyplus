@@ -16,5 +16,8 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.83.0"
+  },
+  "dependencies": {
+    "escalade": "^3.2.0"
   }
 }
